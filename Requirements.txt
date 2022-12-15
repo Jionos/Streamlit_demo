@@ -1,0 +1,5 @@
+streamlit
+deepface
+json
+opencv-python
+matplotlib
