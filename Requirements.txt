@@ -1,5 +1,5 @@
-streamlit
-deepface
+streamlit==1.16.0
+opencv-python==4.6.0.66
+deepface==0.0.75
+matplotlib==3.6.2
 json
-opencv-python
-matplotlib
